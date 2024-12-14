@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/lehai265/CTF/refs/heads/main/swagger2_0.yaml",
-            "name": "Foo"
+            "name": "Aes"
         }
     ]
 }
